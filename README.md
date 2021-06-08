@@ -20,7 +20,7 @@ python2 dump.py
 ###### SCREENSHOTS ######
 
 <p align="center">
- <img src="https://github.com/MRVIVEK-CODER/Premium1/blob/main/Screenshot_20210524-10040119.jpg" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/MRVIVEK-CODER/DUMPIDS/blob/main/Screenshot_20210608-180512.jpg" width="640" title="Menu" alt="Menu">
  
  
 
